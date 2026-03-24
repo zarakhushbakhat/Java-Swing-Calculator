@@ -1,8 +1,8 @@
-##Java Swing Calculator
+## Java Swing Calculator
 
 A desktop calculator built using Java Swing, featuring a clean UI and full functionality for basic arithmetic operations. It mimics a simple handheld calculator with support for addition, subtraction, multiplication, division, decimal numbers, square roots, clear (AC), and delete (DEL) functionality.
 
-Features
+## Features
 
 Simple and intuitive GUI using Java Swing.
 
@@ -20,7 +20,7 @@ Dynamic display: numbers and operators are right-aligned, and the font size adju
 
 Custom colors for numbers, operators, and special buttons.
 
-How to Use
+## How to Use
 
 You can use this calculator by downloading the .exe file for Windows:
 
@@ -29,7 +29,7 @@ Download the .exe file from the Releases section
 
 Double-click the .exe to launch the calculator.
 
-Use the buttons to perform calculations:
+Use the buttons to perform calculations.
 
 Click number buttons to enter digits.
 
@@ -43,7 +43,7 @@ Use DEL to delete the last digit/operator.
 
 Use √ to calculate the square root of the current number.
 
-Technologies Used
+## Technologies Used
 
 Java SE 8+
 
@@ -53,7 +53,7 @@ GridLayout and BorderLayout for UI design
 
 Custom color styling
 
-Future Enhancements
+## Future Enhancements
 
 Support for parentheses and complex expressions.
 
