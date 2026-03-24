@@ -1,4 +1,4 @@
-Java Swing Calculator
+##Java Swing Calculator
 
 A desktop calculator built using Java Swing, featuring a clean UI and full functionality for basic arithmetic operations. It mimics a simple handheld calculator with support for addition, subtraction, multiplication, division, decimal numbers, square roots, clear (AC), and delete (DEL) functionality.
 
